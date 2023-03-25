@@ -406,7 +406,7 @@ function App() {
           justifyContent: "center",
           alignItems: "center",
           padding: "5rem 5rem",
-          "@media (max-width: 1000px)": {
+          "@media (max-width: 1400px)": {
             padding: "5rem 0rem 5rem 2rem",
           },
           "@media (max-width: 768px)": {
@@ -420,7 +420,7 @@ function App() {
             height: "100%",
             width: "55%",
             padding: "5rem 0 5rem 10rem",
-            "@media (max-width: 1000px)": {
+            "@media (max-width: 1400px)": {
               padding: "5rem 0 5rem 2rem",
             },
             "@media (max-width: 768px)": {
@@ -817,7 +817,7 @@ function App() {
               display: "flex",
               flexDirection: "column",
               boxShadow: "0px 0px 10px 0px rgba(0, 0, 0, 0.75)",
-              "@media (max-width: 1000px)": {
+              "@media (max-width: 1400px)": {
                 width: "75%",
               },
               "@media (max-width: 768px)": {
