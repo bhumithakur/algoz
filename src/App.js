@@ -812,7 +812,6 @@ function App() {
           <Box
             sx={{
               width: "55%",
-              // margin: "2rem 0",
               // marginTop: "2rem",
               borderRadius: "1rem",
               display: "flex",
@@ -824,6 +823,7 @@ function App() {
               "@media (max-width: 768px)": {
                 width: "85%",
                 boxShadow: "0px 0px 15px 0px rgba(0, 0, 0, 0.60)",
+                margin: "2rem 0",
               },
             }}
           >
