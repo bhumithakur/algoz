@@ -1,6 +1,6 @@
 import "./App.css";
 import { Box, Button, Typography } from "@mui/material";
-import bgImage from "./img/bgImage.png";
+import bgImage from "./img/bgImage.jpg";
 import logo from "./img/logo.png";
 import rectangle from "./img/rectangle.svg";
 import bgCurve from "./img/bgCurve.svg";
