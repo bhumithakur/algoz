@@ -397,7 +397,7 @@ function App() {
       </Box>
       <Box
         sx={{
-          // height: "100vh",
+          height: "100%",
           // width: "100vw",
           backgroundImage: `url(${bgCurve})`,
           backgroundRepeat: "no-repeat",
@@ -812,7 +812,8 @@ function App() {
           <Box
             sx={{
               width: "55%",
-              margin: "2rem 0",
+              // margin: "2rem 0",
+              // marginTop: "2rem",
               borderRadius: "1rem",
               display: "flex",
               flexDirection: "column",
